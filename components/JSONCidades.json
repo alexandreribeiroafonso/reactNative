@@ -1,0 +1,41 @@
+{
+    "estados": [
+      {
+        "sigla": "Estado",
+        "nome": "Estado",
+        "cidades": [
+        ]
+      }, 
+      {
+        "sigla": "AC",
+        "nome": "Acre",
+        "cidades": [
+          "Acrelândia",
+          "Assis Brasil",
+          "Brasiléia",
+          "Bujari",
+        ]
+      }, 
+      {
+        "sigla": "AL",
+        "nome": "Alagoas",
+        "cidades": [
+          "Água Branca",
+          "Anadia",
+          "Arapiraca",
+          "Atalaia",
+        ]
+      },
+      {
+        "sigla": "GO",
+        "nome": "Goiás",
+        "cidades": [
+          "Goiânia",
+          "Anápolis",
+          "Bela Vista",
+          "Catalão",
+        ]
+      }
+
+    ]
+  }
